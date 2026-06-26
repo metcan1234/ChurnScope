@@ -1,0 +1,62 @@
+[
+  {
+    "feature":"Contract_Month-to-month",
+    "importance":0.8194512815
+  },
+  {
+    "feature":"charges_per_month",
+    "importance":0.370263897
+  },
+  {
+    "feature":"MonthlyCharges",
+    "importance":0.3017856591
+  },
+  {
+    "feature":"InternetService_Fiber optic",
+    "importance":0.2920264715
+  },
+  {
+    "feature":"tenure",
+    "importance":0.286022866
+  },
+  {
+    "feature":"PaymentMethod_Electronic check",
+    "importance":0.206054664
+  },
+  {
+    "feature":"TotalCharges",
+    "importance":0.2027056926
+  },
+  {
+    "feature":"Contract_Two year",
+    "importance":0.1350414454
+  },
+  {
+    "feature":"InternetService_No",
+    "importance":0.1120402645
+  },
+  {
+    "feature":"PaperlessBilling_Yes",
+    "importance":0.0538161121
+  },
+  {
+    "feature":"Contract_One year",
+    "importance":0.0510324303
+  },
+  {
+    "feature":"PaperlessBilling_No",
+    "importance":0.0506492747
+  },
+  {
+    "feature":"Dependents_Yes",
+    "importance":0.0462850315
+  },
+  {
+    "feature":"InternetService_DSL",
+    "importance":0.0401356286
+  },
+  {
+    "feature":"PaymentMethod_Mailed check",
+    "importance":0.0391190674
+  }
+]
